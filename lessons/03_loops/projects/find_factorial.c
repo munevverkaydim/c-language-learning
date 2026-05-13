@@ -22,4 +22,4 @@ int main()
     printf("%d! = %d",number, factorial);
 
     return 0;
-}
+}   
